@@ -1,6 +1,10 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
-  image:
+- title: Github
+  url: https://github.com/pasinatosilvia
+  
+- title: About
+  url: /about/
+  
+- title: Portfolio
+  url: /porfolio/
